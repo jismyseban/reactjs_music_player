@@ -1,0 +1,5 @@
+[
+{"id": "1", "connect": "songs/Kalimba.mp3", "name": "Kalimba", "image": "images/Chrysanthemum.jpg"},
+{"id": "2", "connect": "songs/Maid with the Flaxen Hair.mp3", "name": "Maid with the Flaxen Hair" ,"image": "images/Desert.jpg"},
+{"id": "3", "connect": "songs/Sleep Away.mp3", "name": "Sleep Away", "image": "images/Lighthouse.jpg"}
+]

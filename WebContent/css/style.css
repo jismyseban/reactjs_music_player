@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+body  {
+    background-image: url("../images/bg1.jpg");
+    background-color: #cccccc;
+}
+.topPane{
+	background-color:#ffffff;
+    height:150px;
+    width:100%;
+}
+
+.leftPane{
+	background-color:rgba(73,49,28,0.5);
+	padding-top:10px;
+	padding-left:10px;
+	height:500px;
+	width:400px;
+	float:center;
+	overflow:scroll;
+	margin:auto;
+	color: white;
+}
+
+.centerPane{
+	background-color: #ffffff;
+	height:650px;
+	width:80%;
+	float:right;
+	right:0;
+}
